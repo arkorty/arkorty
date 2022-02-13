@@ -3,7 +3,7 @@
 ##### I am..
 * 📚 Currently learning C & C++  
 * 😇 Familiar with Java & Python  
-* 💾 Quite intrigued by all sorts of retro tech  
+* 💾 Quite intrigued by all sorts of tech  
 * 🤓 Keen to learn almost anything in the CS realm  
 * 🚀 Really into Star Wars  
 
