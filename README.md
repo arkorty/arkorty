@@ -4,7 +4,7 @@
 * 📚 Currently learning C & C++  
 * 😇 Familiar with Java & Python  
 * 💾 Quite intrigued by all sorts of tech  
-* 🤓 Keen to learn almost anything in the CS realm  
+* 🤓 Keen to learn almost anything in the Computer Science realm  
 * 🚀 Really into Star Wars  
 
 
