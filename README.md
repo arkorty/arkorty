@@ -1,10 +1,10 @@
 ### Hello, I'm Ark!
 #### Here are some things about me
 ##### I am..
-* 📚 Currently learning C & C++  
-* 😇 Familiar with Java & Python  
+* 📚 Currently learning C  
+* 😇 Familiar with Java  
 * 💾 Quite intrigued by all sorts of tech  
-* 🤓 Keen to learn almost anything in the Computer Science realm  
+* 🤓 Keen to learn almost anything in the CS realm  
 * 🚀 Really into Star Wars  
 * 🐧 GNU/Linux user
 
