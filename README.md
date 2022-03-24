@@ -6,7 +6,7 @@
 * 💾 Quite intrigued by all sorts of tech  
 * 🤓 Keen to learn almost anything in the CS realm  
 * 🚀 Really into Star Wars  
-* 🐧 a GNU/Linux user
+* 🐧 A GNU/Linux user
 
 <!-- DYNAMIC CARDS START HERE -->
 </br>
