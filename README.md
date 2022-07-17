@@ -4,7 +4,7 @@
 * 📚 Currently learning C and C++ (not the same thing)
 * 😇 Familiar with Java
 * 💾 Quite intrigued by all sorts of tech
-* 🤓 Keen to learn almost anything in the CS realm
+* 🤓 Keen to learn new things in this field
 * 🚀 Really into Star Wars (some of the new ones are terrible)
 * 🐧 A GNU/Linux user (currently Arch)
 
