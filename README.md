@@ -5,7 +5,7 @@
 * 😇 Familiar with Java
 * 💾 Quite intrigued by all sorts of tech
 * 🤓 Keen to learn almost anything in the CS realm
-* 🚀 Really into Star Wars
+* 🚀 Really into Star Wars (some of the new ones are terrible)
 * 🐧 A GNU/Linux user (currently Arch)
 
 <!-- DYNAMIC CARDS START HERE -->
