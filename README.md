@@ -6,7 +6,7 @@
 * 💾 Quite intrigued by all sorts of tech
 * 🤓 Keen to learn new things in this field
 * 🚀 Really into Star Wars (some of the new ones are terrible)
-* 🐧 A GNU/Linux user (currently Arch)
+* 🐧 A GNU+Linux user (currently Arch)
 
 <!-- DYNAMIC CARDS START HERE -->
 </br>
