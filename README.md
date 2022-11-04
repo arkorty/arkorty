@@ -16,4 +16,3 @@
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
 </p>
 <!-- DYNAMIC CARDS END HERE -->
-
