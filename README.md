@@ -1,12 +1,12 @@
 ### Hello, I'm Ark!
 #### Here are some things about me
-##### I am..
-* 📚 Currently learning C and C++ (not the same thing)
-* 😇 Familiar with Java
-* 💾 Quite intrigued by all sorts of tech
-* 🤓 Keen to learn new things in this field
-* 🚀 Really into Star Wars (some of the new ones are terrible)
-* 🐧 A GNU+Linux user (currently Arch)
+##### I..
+* 📚 am currently learning Rust (not the same thing)
+* 😇 have used Java, C & C++ for CLI projects
+* 💾 am quite intrigued by all sorts of sciency stuff
+* 🤓 am always keen to learn new things in the CS realm
+* 🐧 have been a GNU+Linux user (currently Arch) for more than 5 years now
+* 📀 am a proponent of FOSS software
 
 <!-- DYNAMIC CARDS START HERE
 </br>
