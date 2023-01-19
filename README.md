@@ -1,7 +1,7 @@
 ### Hello, I'm Ark!
 #### Here are some things about me
 ##### I..
-* 📚 am currently learning Rust (not the same thing)
+* 📚 am currently learning Rust
 * 😇 have used Java, C & C++ for CLI projects
 * 💾 am quite intrigued by all sorts of sciency stuff
 * 🤓 am always keen to learn new things in the CS realm
