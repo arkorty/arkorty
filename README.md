@@ -8,11 +8,11 @@
 * 🐧 have been a GNU+Linux user (currently Arch) for more than 5 years now
 * 📀 am a proponent of FOSS software
 
-<!-- DYNAMIC CARDS START HERE
+<!-- DYNAMIC CARDS START HERE -->
 </br>
 <p align="left">
     <img src ="https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&show_icons=true&hide=contribs&theme=dark&hide_border=true&bg_color=00000000">
     </br>
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&langs_count=10&layout=compact&theme=apprentice&hide_border=true&bg_color=00000000">
 </p>
-DYNAMIC CARDS END HERE -->
+<!-- DYNAMIC CARDS END HERE -->
