@@ -3,8 +3,6 @@
 ##### I..
 * 📚 am currently learning Rust
 * 😇 have used Java, C & C++ for CLI projects
-* 💾 am quite intrigued by all sorts of sciency stuff
-* 🤓 am always keen to learn new things in the CS realm
 * 🐧 have been a GNU+Linux user (currently Arch) for more than 5 years now
 * 📀 am a proponent of FOSS software
 
