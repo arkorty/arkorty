@@ -3,7 +3,7 @@
 ##### I..
 * 📚 am currently learning Rust
 * 😇 have used Java, C & C++ for CLI projects
-* 🐧 have been a GNU+Linux user (currently Arch) for more than 5 years now
+* 🐧 have been a GNU+Linux user for more than 5 years now
 * 📀 am a proponent of FOSS software
 
 <!-- DYNAMIC CARDS START HERE -->
