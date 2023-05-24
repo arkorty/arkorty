@@ -1,10 +1,18 @@
-### Hello, I'm Ark!
-#### Here are some things about me
-##### I..
-* 📚 am currently learning Rust
-* 😇 have used Java, C & C++ for CLI projects
-* 🐧 have been a GNU+Linux user for more than 5 years now
-* 📀 am a proponent of FOSS software
+## Hello, I'm Ark!
+### Here are some things about me
+* ⚙ Currently learning Rust
+* 😇 Have used Java, C & C++ for CLI projects
+* 🐧 Been a GNU+Linux user for more than 5 years now
+* 📀 Proponent of Libre software
+
+### OS setup
+* 🐧 Distro - Arch
+* 🪟 Window Manager - Suckless DWM
+* 🖥️ Display Server - Xorg
+* 🔊 Audio Solution - Pipewire
+
+## How to get in touch
+You can find me on Twitter and Linkedin with the @arkorty handle. I'm open to any collaborations if the offer is intriguing. For anything work-related, shoot me an email at arkorty@gmail.com.
 
 <!-- DYNAMIC CARDS START HERE -->
 </br>
