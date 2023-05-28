@@ -6,7 +6,7 @@
 * 📀 Proponent of Libre software
 
 ### OS setup
-* 🐧 Distro - Arch
+* 🐧 Linux Distribution - Arch
 * 🪟 Window Manager - Suckless DWM
 * 🖥️ Display Server - Xorg
 * 🔊 Audio Solution - Pipewire
