@@ -5,7 +5,7 @@
 * 🐧 Been a GNU+Linux user for more than 5 years now
 * 📀 Proponent of Libre software
 
-### OS setup
+### What Operating System I use
 * 🐧 Linux Distribution - Arch
 * 🪟 Window Manager - Suckless DWM
 * 🖥️ Display Server - Xorg
