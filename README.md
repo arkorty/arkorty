@@ -17,7 +17,7 @@ You can find me on [Mastodon](https://mastodon.social/@arkorty), Twitter or Link
 <!-- DYNAMIC CARDS START HERE -->
 </br>
 <p align="left">
-    <img src ="https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&show_icons=true&hide=contribs&theme=apprentice&hide_border=true&bg_color=00000000">
+    <img src ="https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&show_icons=true&hide=contribs&theme=buefy&hide_border=true&bg_color=00000000">
     </br>
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&langs_count=8&layout=compact&theme=apprentice&hide_border=true&bg_color=00000000">
 </p>
