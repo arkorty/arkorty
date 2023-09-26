@@ -12,7 +12,7 @@
 * 🔊 Audio Solution - Pipewire
 
 ## How to get in touch
-You can find me on [Mastodon](https://mastodon.social/@arkorty), Twitter or Linkedin with the @arkorty handle. I'm open to any collaborations if the offer is intriguing. For anything work-related, shoot me an email at arkorty@gmail.com.
+You can find me on [Mastodon](https://mastodon.social/@arkorty), X.com or Linkedin with the @arkorty handle. I'm open to any collaborations if the offer is intriguing. For anything work-related, shoot me an email at arkorty@gmail.com.
 
 <!-- DYNAMIC CARDS START HERE -->
 </br>
