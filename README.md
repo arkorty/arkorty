@@ -42,6 +42,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](htt
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@arkorty) 
 
-## Commits
+## History at a Glance
 
 ![](./profile-3d-contrib/profile-night-green.svg)
