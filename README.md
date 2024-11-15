@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arkorty&theme=dark&hide_border=true&background=00000000)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkorty&theme=dark&hide_border=true&langs_count=8&include_all_commits=false&count_private=false&bg_color=00000000&layout=compact)</br>
 
-## Glance at the Stuff I Use
+## My Tech Stack
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gorilla Websockets](https://img.shields.io/badge/gorilla%20websockets-%23373F47.svg?style=for-the-badge) ![Shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OC44MDEiIGhlaWdodD0iNTEuMjgiIHZpZXdCb3g9IjAgMCA0OC44MDEgNTEuMjgiPjxwYXRoIGQ9Ik0wIDE2LjUyMmMwLTIuMjEyIDEuMTMyLTQuMTUyIDIuOTM5LTUuMjEybDE4LjI3MS0xMC41MTZjMS42MjMtLjkzMyAzLjYzOC0uOTMzIDUuMjYxIDBsMTguMjcgMTAuNTE2YzEuODAzIDEuMDYgMi45MzkgMi45IDEuOTQgNS4yMTJMMjguNDIzIDQ3LjI2M2MtLjgyIDEuNDA2LTIuNDIyIDIuMDEtNC4yMzUgMkwzLjc5IDQyLjI2M2MtMS44MDMtMS4wNi0yLjkzOS0yLjktMi45MzktNS4yMTJWMTYuNTIyeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white) ![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgdmlld0JveD0iMCAwIDUwIDUwIj48Y2lyY2xlIGN4PSIyNSIgY3k9IjI1IiByPSIyNSIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0xNy41IDI0LjVjMCAyLjUgMCA3LjUgNy41IDcuNSAxLjQwMiAwIDIuNjA1LS4yNCAzLjcyNS0uNzQ1Yy4xOTUuNTUuNzM0IDEuNzM3IDEuNzQ1IDIuNzQ1LjMxMy4zMTIuMjI0LjY0OC4xIDIuNTQ1LjY1MS0uMDY5IDEuMzA0LS4xNDggMS45ODUtLjE0OCA3LjYwOCAwIDExLjQyNy01Ljg1NSAxMS45ODUtMTIuNjAyLS4xOTUtMi4xNTUtLjkzNi0zLjgyMS0xLjA0NS00LjA1NUwyOS41IDI4LjVjLjU2NiAwIDUuOTktLjA4MyA4LjQtMyAyLjA1NS0yLjY0MyAxLjI5My01LjYyNS45LTcuMDQtLjI3LS4wMTUtNC4xLS40LTMuOTYtNWMuMDk3LTIuNzg3LTIuMzI0LTMuOTgtMy4yLTMtMS40NjctLjQ4OS0zLjUwNy0uNzM4LTUuOTg1IDAtMi4wNDUuNTM2LTQuMTUuMzktNS42MDEtLjYyNXMtNC41NS0xLjM5LTYuMzM1LjYyNUMxNi4zMDUgMTguOTc1IDE3LjUgMjIuMzc1IDE3LjUgMjQuNXoiIGZpbGw9IiMwMDAiLz48L3N2Zz4=&logoColor=white) ![Acternity UI](https://img.shields.io/badge/acternity%20ui-%231A2B38.svg?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -29,15 +29,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) ![AlmaLinux](https://img.shields.io/badge/almalinux-%231A1A1A.svg?style=for-the-badge&logo=almalinux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-
-## Open-Source Dev Setup
-
-- 🐧 Arch Linux
-- 🖥️ Wayland
-- 🔊 PipeWire
-- 🪟 River Window Manager
-- 🖥️ Alacritty
-
 ## Contacts
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](https://x.com/arkorty/), or [Mastodon](https://mastodon.social/@arkorty/). I'm open to collaborations, internships, or full-time offers. For any work-related quiries, please email me at arkorty@gmail.com.
@@ -46,6 +37,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](htt
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@arkorty) 
 
-## History at a Glance
+## Commit Skyline
 
 ![](./profile-3d-contrib/profile-night-green.svg)
