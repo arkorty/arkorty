@@ -2,8 +2,8 @@
 
 ## Here are some things about me
 
-- 🛠️ Currently building [BoostStats](https://booststats.vercel.app/) to track user progress on the Google Cloud Skills Boost platform
-- ⚙ Built [Room](https://t.webark.in/), [DownLink](https://d.webark.in/) and [CodeShare](https://c.webark.in/)
+- 🛠️ Currently building [BoostStats](https://booststats.webark.in/) to track user progress on the Google Cloud Skills Boost platform
+- ⚙ Built [Room](https://room.webark.in/), [DownLink](https://downlink.webark.in/) and [CodeShare](https://codeshare.webark.in/)
 - 😇 Have development experience using JavaScript, Golang, and Rust
 - 🐧 Been daily driving Linux for 6+ years
 
