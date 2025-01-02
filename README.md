@@ -1,4 +1,4 @@
-# Hello, I'm Ark!
+# Hello, I'm Arka! ( say Orko )
 
 ## Here are some things about me
 
