@@ -3,7 +3,7 @@
 ## Here are some things about me
 
 - 🛠️ Currently building [DevClean](https://github.com/arkorty/DevClean)
-- ⚙ Built [ACEquity](https://ace.webark.in/), and [Osborne](https://o.webark.in/)
+- ⚙ Built [ACEquity](https://ace.webark.in/) and [Osborne](https://o.webark.in/)
 - 😇 Have development experience using JavaScript, Golang, and Rust
 - 🐧 Been daily driving Linux for 6+ years
 
