@@ -4,7 +4,7 @@
 
 - 🛠️ Currently building [DevClean](https://github.com/arkorty/DevClean)
 - ⚙ Built [ACEquity](https://ace.webark.in/) and [Osborne](https://o.webark.in/)
-- 😇 Have development experience in Typescript, Python & Golang
+- 😇 Been developing w/ MERN, FastAPI, Electron & go-chi
 - 💻 OS agnostic
 
 ![](https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
