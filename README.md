@@ -4,8 +4,8 @@
 
 - 🛠️ Currently building [DevClean](https://github.com/arkorty/DevClean)
 - ⚙ Built [ACEquity](https://ace.webark.in/) and [Osborne](https://o.webark.in/)
-- 😇 Have development experience using JavaScript, Golang, and Rust
-- 🐧 Been daily driving Linux for 6+ years
+- 😇 Have development experience in Typescript, Python & Golang
+- 💻 OS agnostic
 
 ![](https://github-readme-stats.vercel.app/api?username=arkorty&custom_title=GitHub+Stats&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&bg_color=00000000&count_private=false)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arkorty&theme=dark&hide_border=true&background=00000000)</br>
@@ -31,7 +31,7 @@
 
 ## Contacts
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](https://x.com/arkorty/), or [Mastodon](https://mastodon.social/@arkorty/). I'm open to collaborations, internships, or full-time offers. For any work-related quiries, please email me at arkorty@gmail.com.
+You can find me on [LinkedIn](https://www.linkedin.com/in/arkorty/), [X.com](https://x.com/arkorty/), or [Mastodon](https://mastodon.social/@arkorty/). For any work-related quiries, please email me at arkorty@gmail.com.
 
 ## Buy Me a Coffee
 
