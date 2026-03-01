@@ -2,8 +2,8 @@
 
 ## Here are some things about me
 
-- 🛠️ Currently building [DevClean](https://github.com/arkorty/DevClean)
-- ⚙ Built [ACEquity](https://ace.webark.in/) and [Osborne](https://o.webark.in/)
+- 🛠️ Currently Floating
+- ⚙ Built [ACEquity](https://ace.webark.in/) and [Expensso](https://github.com/arkorty/Expensso/)
 - 😇 Been developing w/ MERN, FastAPI, Electron & go-chi
 - 💻 OS agnostic
 
