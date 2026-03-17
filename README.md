@@ -2,6 +2,7 @@
 
 ## Here are some things about me
 
+- 🍵 Check out my self-hosted [Git Service](https://git.webark.in/)
 - 🛠️ Currently Floating
 - ⚙ Built [ACEquity](https://ace.webark.in/) and [Expensso](https://github.com/arkorty/Expensso/)
 - 😇 Been developing w/ MERN, FastAPI, Electron & go-chi
